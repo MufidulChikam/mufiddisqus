@@ -1,2 +1,1 @@
-# mufiddisqus
-Disqus Mufid
+Muhammad Arif Mufidul Chikam
